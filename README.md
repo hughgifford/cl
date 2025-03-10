@@ -1,2 +1,2 @@
-# cl
-Clinical Lectureship Supporting Information
+# Clinical Lectureship
+Clinical Lectureship Supporting Information: Publications
